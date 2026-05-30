@@ -125,11 +125,11 @@ A clean, functional calculator built as an FNB Academy assignment.
 | ☁️ AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2025 |
 | 🔧 CompTIA IT Operations Specialist (CIOS) | CompTIA | 2026 |
 | ✅ CompTIA A+ ce | CompTIA | 2025 |
-| ✅ CompTIA Network+ | CompTIA | — |
-| ✅ Microsoft Certified Systems Engineer (MCSE) | Microsoft | — |
-| ✅ MCSA: Web Applications | Microsoft | — |
-| ✅ MCSD: App Builder | Microsoft | — |
-| ✅ MCP — Windows Server 2012 | Microsoft | — |
+| ✅ CompTIA Network+ | CompTIA | 2026 |
+| ✅ Microsoft Certified Systems Engineer (MCSE) | Microsoft | 
+| ✅ MCSA: Web Applications | Microsoft |
+| ✅ MCSD: App Builder | Microsoft |
+| ✅ MCP — Windows Server 2012 | Microsoft | 
 
 ---
 
