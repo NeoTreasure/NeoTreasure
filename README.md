@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Neo%20Mavhunga&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20Specialist%20%7C%20Full%20Stack%20Development%20in%20Progress%20%7C%20DevOps%20Learning&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Full+Stack+Developer+%7C+FNB+App+Academy+Graduate;☁️+AWS+Cloud+Foundations+Certified;🎓+BSc+IT+Student+%7C+Programming+%26+Data+Systems;🚀+IT+Support+Specialist+→+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Full+Stack+Developer+%7C+FNB+App+Academy+Graduate;☁️+AWS+Cloud+Foundations+Certified;🎓+BSc+IT+Student+%7C+Programming+%26+Data+Systems;+IT+Support+Specialist+→+Software+Developer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@ I'm an **IT Support Specialist Level 2** with **6+ years of experience** in ISP 
 
 ---
 
-## 🚀 Projects
+##  Projects so far
 
 ### 🏦 Banking App
 > Built as part of my BSc IT coursework at Richfield Graduate Institute of Technology
@@ -40,35 +40,20 @@ A fully functional banking application built to simulate real-world banking oper
 
 **Features:**
 - 💳 Account creation and management
-- 💸 Deposit, withdrawal and balance tracking
+-  Deposit, withdrawal, and balance tracking
 - 🔐 Secure login and authentication flow
-- 📊 Transaction history
+-  Transaction history
 
-**Tech used:** HTML · CSS · JavaScript
-
----
-
-### 🎓 Student Portal
-> Built as part of my BSc IT coursework at Richfield Graduate Institute of Technology
-
-A student management portal designed to handle academic records and information.
-
-**Features:**
-- 📝 Student registration and login
-- 📚 Course and module management
-- 📋 Results and grade tracking
-- 🖥️ Clean dashboard UI
-
-**Tech used:** HTML · CSS · JavaScript
+**Tech used:** HTML · CSS · JavaScript · C++
 
 ---
 
-### 🛒 My-Store *(FNB App Academy)*
+### My-Store *(FNB App Academy)*
 > [View Repository](https://github.com/NeoTreasure/My-store)
 
 My first FNB App Academy project — a fully built online store application.
 
-**Tech used:** HTML · CSS · JavaScript
+**Tech used:** HTML · CSS · JavaScript · Phython
 
 ---
 
@@ -81,6 +66,11 @@ A clean, functional calculator built as an FNB Academy assignment.
 
 ## 🛠️ Tech Stack
 
+### 🌐 Networking & Systems
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### 💻 Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -91,13 +81,7 @@ A clean, functional calculator built as an FNB Academy assignment.
 
 ### ☁️ Cloud & DevOps (In Progress)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 Networking & Systems
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🔧 Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -138,7 +122,7 @@ A clean, functional calculator built as an FNB Academy assignment.
 ✅ CompTIA A+            ✅ CompTIA Network+        ✅ MCSE  ✅ MCSD
 ✅ Full Stack Dev (FNB)  ✅ AWS Cloud Foundations   ✅ CIOS
 🔄 Python Scripting      🔄 Linux CLI               🔄 Git & GitHub
-⏳ Docker                ⏳ CI/CD Pipelines          ⏳ Azure / AWS Deep Dive
+
 
 ---
 
