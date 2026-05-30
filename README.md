@@ -108,14 +108,9 @@ A clean, functional calculator built as an FNB Academy assignment.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NeoTreasure&show_icons=true&theme=tokyonight&border_color=C084FC&title_color=C084FC&icon_color=D4537E&hide_border=false&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoTreasure&layout=compact&theme=tokyonight&border_color=C084FC&title_color=C084FC&hide_border=false&langs_count=6" height="165"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NeoTreasure&theme=tokyonight&border=C084FC&ring=C084FC&fire=D4537E&currStreakLabel=C084FC" width="420"/>
-
 
 </div>
 
