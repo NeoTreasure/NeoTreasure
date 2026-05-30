@@ -17,11 +17,13 @@
 
 ## 👩🏾‍💻 About Me
 
-I'm a **IT Support Specialist Level 2** with **6+ years of experience** in ISP and managed service environments (WebAfrica, Mweb). I'm continuously expanding my skills into **Software Development, DevOps, and Cyber Security** — building on a strong technical foundation.
+I'm an **IT Support Specialist Level 2** with **6+ years of experience** in ISP and managed service environments (WebAfrica). I'm continuously expanding my skills into **Software Development, DevOps, and Cyber Security**, building on a strong technical foundation.
 
 - 🎓 Studying **BSc Information Technology** at Richfield Graduate Institute of Technology *(Year 2 — Programming & Data Systems)*
+- 🏆 **Network+** — Comptia Certificate *(February 2026)*
+- 🏆 **A+** — Comptia Certificate  *(2025)*
 - 🏆 **FNB App Academy Graduate** — Certificate in Full Stack Development *(July 2025)*
-- ☁️ **AWS Academy Graduate** — Cloud Foundations *(December 2025)*
+- ☁️ **AWS Academy** — Cloud Foundations *(December 2025)*
 - 💼 Currently working as **IT Support Specialist Level 2** at WebAfrica & Mweb
 - 🔐 Expanding into **Cyber Security, DevOps & Software Development**
 - 🌱 Currently learning **Python · Linux · Docker · Networking Security**
