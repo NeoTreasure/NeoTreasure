@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Neo%20Mavhunga&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Support%20Specialist%20%7C%20DevOps%20in%20Progress&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Neo%20Mavhunga&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20Specialist%20%7C%20Full%20Stack%20Development%20in%20Progress%20%7C%20DevOps%20Learning&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Full+Stack+Developer+%7C+FNB+App+Academy+Graduate;☁️+AWS+Cloud+Foundations+Certified;🎓+BSc+IT+Student+%7C+Programming+%26+Data+Systems;🚀+IT+Support+Specialist+→+Software+Developer)](https://git.io/typing-svg)
 
